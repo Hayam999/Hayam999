@@ -13,10 +13,7 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hayam999&show_icons=true&locale=en" alt="hayam999" /></p>
-
-
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hayam999&show_icons=true&locale=en&layout=compact" alt="hayam999" /></p>
 - 📫 How to reach me **hayammhmd90@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

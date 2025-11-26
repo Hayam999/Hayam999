@@ -19,10 +19,8 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hayam999&" alt="hayam999" /></p>
 
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hayam999" alt="hayam999" /></a> </p>
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hayam Kamal</h1>
-<h3 align="center">Aspiring Software Engineer & Full-Stack Developer</h3>
+<h3 align="center">Full-Stack Developer</h3>
 
 - 🌱 Currently learning ***Computer Science*** through the OSSU Curriculum and ***Full Stack Web Development*** with The Odin Project
 

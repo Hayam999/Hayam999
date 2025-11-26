@@ -15,8 +15,6 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hayam999&show_icons=true&locale=en&layout=compact" alt="hayam999" /></p>
-
 
 
 
